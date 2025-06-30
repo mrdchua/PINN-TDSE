@@ -1,2 +1,3 @@
-# Solutions-to-Relativistic-QM
- This repository is dedicated to exploring numerical methods for solving the Klein-Gordon Equation and Dirac Equation.
+# PINN-TDSE
+ This repository is dedicated to exploring Physics-Informed Neural Network.
+ We solved the time-dependent Schrödinger equation for 1-dimensional harmonic oscillator using neural networks.
